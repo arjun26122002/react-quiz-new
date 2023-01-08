@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#KBC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple project using react , this project is a clone of Kon banega crorepati
 
 ## Available Scripts
 
