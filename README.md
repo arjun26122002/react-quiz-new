@@ -1,3 +1,9 @@
+![](https://github.com/arjun26122002/react-quiz-new/blob/A1/Screenshot%20(280).png)
+
+#This is the first page ,Entry page of this game 
+
+
+
 #KBC
 
 This is a simple project using react , this project is a clone of Kon banega crorepati
